@@ -3,7 +3,7 @@
 
 # intro
 
-*build different molecular systems
+*build simple molecular systems of different functional groups.
 
 *vary the distance between specific atoms that provide non covalent interactions such as hydrogen bonding
 
