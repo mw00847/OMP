@@ -4,11 +4,17 @@
 # intro
 
 *build different molecular systems
+
 *vary the distance between specific atoms that provide non covalent interactions such as hydrogen bonding
+
 *produce potential energy scans 
+
 *attempt to understand how the vibrations and frequencies of these systems match up to experimental FTIR results.
+
 *use molecular dynamics to look at the number of non covalent bonds in these system when changing the concentration.
+
 *use different functional groups to compare the energies of interactions
+
 *combine with SAPT to understand specific energy components.
 
 
