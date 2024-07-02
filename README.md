@@ -1,6 +1,16 @@
 
 # Understanding the nature of specific interactions in mixtures 
 
+# intro
+
+*build different molecular systems
+*vary the distance between specific atoms that provide non covalent interactions such as hydrogen bonding
+*produce potential energy scans 
+*attempt to understand how the vibrations and frequencies of these systems match up to experimental FTIR results.
+*use molecular dynamics to look at the number of non covalent bonds in these system when changing the concentration.
+*use different functional groups to compare the energies of interactions
+*combine with SAPT to understand specific energy components.
+
 
 # Abstract
 This work looks to understand the vibrational changes of molecules in mixtures with varying concentration. FTIR provides experimental results of mixtures that can be modelled using Quantum Mechanical methods including DFT and SAPT methods. DFT provides the representative vibration of a molecule conformation and this is then used with SAPT to determine a further breakdown of the non specific interactions.
